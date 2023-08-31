@@ -1,0 +1,12 @@
+[submodule "Pagamento"]
+	path = Pagamento
+	url = https://github.com/Alex-Buttielie/Pagamento.git
+[submodule "Pedidos"]
+	path = Pedidos
+	url = https://github.com/Alex-Buttielie/Pedidos.git
+[submodule "Gateway"]
+	path = Gateway
+	url = https://github.com/Alex-Buttielie/Gateway.git
+[submodule "Server"]
+	path = Server
+	url = https://github.com/Alex-Buttielie/Server.git
